@@ -46,9 +46,9 @@ If you'd like, I can commit these changes and add your real contact links. Want 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ## 💡 GitHub Analytics
 
-![Gargie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![Gargie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GargieskE&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gargiesk&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/Gargiesk/Gargiesk/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/BANNERFILENAME.png"/>
+  <img src="https://github.com/YOURUSERNAME//blob/main/BANNERFILENAME.png"/>
 </p>
