@@ -21,9 +21,11 @@ jobs:
           github_user_name: Gargiesk
           outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          message: "update snake 🐍"
           add: "dist/snake.svg"
+          message: "🐍 update snake"
+          branch: output
+          create: true
+          default_author: github_actions
