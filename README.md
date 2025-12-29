@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GargieSK/gargie123/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gargiesk/Gargiesk/main/banner.png" width="100%" />
 </p>
+
 
 
 # Hi, I'm Gargie Surajkumar 👋
@@ -51,9 +52,10 @@ If you'd like, I can commit these changes and add your real contact links. Want 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ## 💡 GitHub Analytics
 
-![Gargie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GargieskE&show_icons=true&theme=tokyonight)
+![Gargie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gargiesk&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gargiesk&layout=compact&theme=tokyonight)
-![Snake animation](https://github.com/Gargiesk/gargie123/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="https://github.com/Gargiesk/gargie123/blob/main/BANNERFILENAME.png"/>
-</p>
+
+![Snake animation](https://raw.githubusercontent.com/Gargiesk/Gargiesk/output/github-contribution-grid-snake.svg)
+
+
