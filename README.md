@@ -69,6 +69,10 @@ Right now, I’m focused on **engineering-first projects** that help me grow as 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gargiesk&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gargiesk&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gargiesk&theme=tokyonight" />
+</p>
 
 
 
