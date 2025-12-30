@@ -63,15 +63,12 @@ Right now, I’m focused on **engineering-first projects** that help me grow as 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gargiesk&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargiesk&layout=compact&theme=tokyonight" />
-</p>
+## 📈 GitHub Stats & Activity 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gargiesk&show_icons=true&theme=radical&hide=prs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gargiesk&theme=radical"/> 
+  <br> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gargiesk&theme=react-dark&hide_border=true&area=true"/>
+</p> ---
 
 
 ---
